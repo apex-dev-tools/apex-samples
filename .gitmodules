@@ -10,9 +10,6 @@
 [submodule "SalesforceDurableStreamingDemo/SalesforceDurableStreamingDemo"]
 	path = SalesforceDurableStreamingDemo/SalesforceDurableStreamingDemo
 	url = https://github.com/developerforce/SalesforceDurableStreamingDemo.git
-[submodule "Lightning-Components/Lightning-Components"]
-	path = Lightning-Components/Lightning-Components
-	url = https://github.com/ericrsmith35/Lightning-Components.git
 [submodule "amoss/amoss"]
 	path = amoss/amoss
 	url = https://github.com/bobalicious/amoss.git

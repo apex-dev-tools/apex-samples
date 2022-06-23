@@ -12,7 +12,6 @@ To add a sample follow the pattern below. In some cases a custom sfdx-project.js
     git submodule add https://github.com/4an70m/apex-query-builder.git apex-query-builder/apex-query-builder
     git submodule add https://github.com/ccoenraets/salesforce-bot-toolkit.git salesforce-bot-toolkit/salesforce-bot-toolkit
     git submodule add https://github.com/developerforce/SalesforceDurableStreamingDemo.git SalesforceDurableStreamingDemo/SalesforceDurableStreamingDemo
-    git submodule add https://github.com/ericrsmith35/Lightning-Components.git Lightning-Components/Lightning-Components
     git submodule add https://github.com/bobalicious/amoss.git amoss/amoss
     git submodule add https://github.com/jongpie/SimpleLightningComponents.git SimpleLightningComponents/SimpleLightningComponents
     git submodule add https://github.com/LawrenceLoz/FormulaShare-DX.git FormulaShare-DX/FormulaShare-DX
