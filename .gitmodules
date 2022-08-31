@@ -307,3 +307,9 @@
 [submodule "visualforce-typeahead/visualforce-typeahead"]
 	path = visualforce-typeahead/visualforce-typeahead
 	url = https://github.com/SalesforceFoundation/visualforce-typeahead.git
+[submodule "ActionPlansV4/ActionPlansV4"]
+	path = ActionPlansV4/ActionPlansV4
+	url = https://github.com/SalesforceLabs/ActionPlansV4.git
+[submodule "survey-force/survey-force"]
+	path = survey-force/survey-force
+	url = https://github.com/SalesforceLabs/survey-force.git

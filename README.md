@@ -111,3 +111,5 @@ To add a sample follow the pattern below. In some cases a custom sfdx-project.js
     git submodule add https://github.com/metadaddy/Visualforce-Multiselect-Picklist.git Visualforce-Multiselect-Picklist/Visualforce-Multiselect-Picklist
     git submodule add https://github.com/rsoesemann/visualforce-table-grid.git visualforce-table-grid/visualforce-table-grid
     git submodule add https://github.com/SalesforceFoundation/visualforce-typeahead.git visualforce-typeahead/visualforce-typeahead
+    git submodule add https://github.com/SalesforceLabs/ActionPlansV4.git ActionPlansV4/ActionPlansV4
+    git submodule add https://github.com/SalesforceLabs/survey-force.git survey-force/survey-force
