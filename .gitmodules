@@ -103,9 +103,6 @@
 [submodule "einstein-ai/einstein-ai"]
 	path = einstein-ai/einstein-ai
 	url = https://github.com/mshanemc/einstein-ai.git
-[submodule "purealoe-lwc/purealoe-lwc"]
-	path = purealoe-lwc/purealoe-lwc
-	url = https://github.com/trailheadapps/purealoe-lwc.git
 [submodule "HyperBatch/HyperBatch"]
 	path = HyperBatch/HyperBatch
 	url = https://github.com/danieljpeter/HyperBatch.git
