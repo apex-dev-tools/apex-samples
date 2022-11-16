@@ -1,6 +1,6 @@
-## Apex Test Samples
+# Apex Test Samples
 
-This directory contains a number of test samples as git modules for regression testing. 
+This directory contains a number of test samples as git modules for regression testing.
 
 If you want to test against these locally run:
 
