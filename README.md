@@ -6,6 +6,10 @@ If you want to test against these locally run:
 
     git submodule update --init
 
+To update submodules to with latest remote changes:
+
+    git submodule update --init --remote
+
 To add a sample follow the pattern below. In some cases a custom sfdx-project.json file is needed to load dependencies. To accommodate that the submodules are placed in sub-directory and the custom sfdx-project.json can then be checked into the parent, e.g. fflib-apex-common-samplecode/sfdx-project.json.  
 
     git submodule add https://github.com/se6wagner/TriggerX.git TriggerX/TriggerX

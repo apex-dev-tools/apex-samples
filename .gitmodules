@@ -310,3 +310,21 @@
 [submodule "survey-force/survey-force"]
 	path = survey-force/survey-force
 	url = https://github.com/SalesforceLabs/survey-force.git
+[submodule "at4dx/fflib-apex-mocks"]
+	path = at4dx/fflib-apex-mocks
+	url = https://github.com/financialforcedev/fflib-apex-mocks.git
+[submodule "at4dx/fflib-apex-common"]
+	path = at4dx/fflib-apex-common
+	url = https://github.com/financialforcedev/fflib-apex-common.git
+[submodule "at4dx/force-di"]
+	path = at4dx/force-di
+	url = https://github.com/apex-enterprise-patterns/force-di.git
+[submodule "fflib-apex-common/fflib-apex-mocks"]
+	path = fflib-apex-common/fflib-apex-mocks
+	url = https://github.com/financialforcedev/fflib-apex-mocks.git
+[submodule "fflib-apex-common-samplecode/fflib-apex-mocks"]
+	path = fflib-apex-common-samplecode/fflib-apex-mocks
+	url = https://github.com/financialforcedev/fflib-apex-mocks.git
+[submodule "fflib-apex-common-samplecode/fflib-apex-common"]
+	path = fflib-apex-common-samplecode/fflib-apex-common
+	url = https://github.com/financialforcedev/fflib-apex-common.git

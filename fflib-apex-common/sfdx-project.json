@@ -6,14 +6,6 @@
         },
         {
             "path": "fflib-apex-common/sfdx-source/apex-common",
-            "default": false
-        },
-        {
-            "path": "force-di/force-di",
-            "default": false
-        },
-        {
-            "path": "at4dx/sfdx-source/core",
             "default": true
         }
     ],
