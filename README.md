@@ -15,7 +15,7 @@ To update and init the submodules after empty clone or switching branches:
   ```sh
   git clone [repo-url]
   git checkout tags/v1.0.0
-  git submodule update --init
+  git submodule update --init --recursive
   ```
 
 ## Contributing
