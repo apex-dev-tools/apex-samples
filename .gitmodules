@@ -58,9 +58,6 @@
 [submodule "Angular/Angular"]
 	path = Angular/Angular
 	url = https://github.com/mailtoharshit/Angular.git
-[submodule "Lightweight-Trigger-Framework/Lightweight-Trigger-Framework"]
-	path = Lightweight-Trigger-Framework/Lightweight-Trigger-Framework
-	url = https://github.com/ChrisAldridge/Lightweight-Trigger-Framework.git
 [submodule "SObjectFabricator/SObjectFabricator"]
 	path = SObjectFabricator/SObjectFabricator
 	url = https://github.com/mattaddy/SObjectFabricator.git
