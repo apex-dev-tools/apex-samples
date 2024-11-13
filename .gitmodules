@@ -7,9 +7,6 @@
 [submodule "salesforce-bot-toolkit/salesforce-bot-toolkit"]
 	path = salesforce-bot-toolkit/salesforce-bot-toolkit
 	url = https://github.com/ccoenraets/salesforce-bot-toolkit.git
-[submodule "SalesforceDurableStreamingDemo/SalesforceDurableStreamingDemo"]
-	path = SalesforceDurableStreamingDemo/SalesforceDurableStreamingDemo
-	url = https://github.com/developerforce/SalesforceDurableStreamingDemo.git
 [submodule "amoss/amoss"]
 	path = amoss/amoss
 	url = https://github.com/bobalicious/amoss.git
