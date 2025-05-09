@@ -256,9 +256,6 @@
 [submodule "df12-deployment-tools/df12-deployment-tools"]
 	path = df12-deployment-tools/df12-deployment-tools
 	url = https://github.com/financialforcedev/df12-deployment-tools.git
-[submodule "dreamhouse-sfdx/dreamhouse-sfdx"]
-	path = dreamhouse-sfdx/dreamhouse-sfdx
-	url = https://github.com/dreamhouseapp/dreamhouse-sfdx.git
 [submodule "fflib-apex-common/fflib-apex-common"]
 	path = fflib-apex-common/fflib-apex-common
 	url = https://github.com/financialforcedev/fflib-apex-common.git
