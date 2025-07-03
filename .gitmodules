@@ -34,9 +34,6 @@
 [submodule "SFDCRules/SFDCRules"]
 	path = SFDCRules/SFDCRules
 	url = https://github.com/JitendraZaa/SFDCRules.git
-[submodule "forcelog/forcelog"]
-	path = forcelog/forcelog
-	url = https://github.com/davidsbond/forcelog.git
 [submodule "Apex-XML-Serializer/Apex-XML-Serializer"]
 	path = Apex-XML-Serializer/Apex-XML-Serializer
 	url = https://github.com/skolakan/Apex-XML-Serializer.git
